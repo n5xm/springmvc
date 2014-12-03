@@ -44,4 +44,5 @@ Spring提供的视图解析器（ViewResolver）在Web应用中查找View对象�
 ## Reference
 
 [SpringMVC入门教程及其原理讲解和实例代码下载](http://www.zuidaima.com/share/1751859714182144.htm)
+
 [轻松上手SpringMVC](http://www.blogjava.net/zongbao/archive/2012/07/24/383884.html)
