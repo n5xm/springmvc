@@ -41,7 +41,7 @@ Spring提供的视图解析器（ViewResolver）在Web应用中查找View对象�
 
 只有各个框架之间彼此了解他们之间的优缺点，使用场合，使用原理，才能让我们的更快的成长。
 
-## Reference
+## References
 
 [SpringMVC入门教程及其原理讲解和实例代码下载](http://www.zuidaima.com/share/1751859714182144.htm)
 
