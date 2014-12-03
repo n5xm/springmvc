@@ -26,7 +26,7 @@ Spring提供的前端控制器，所有的请求都有经过它来统一分发�
 
 Spring提供的视图解析器（ViewResolver）在Web应用中查找View对象，从而将相应结果渲染给客户。
 
-### SpringMVC运行原理
+## SpringMVC运行原理
 
 1. 客户端请求提交到DispatcherServlet
 1. 由DispatcherServlet控制器查询一个或多个HandlerMapping，找到处理请求的Controller
