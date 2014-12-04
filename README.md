@@ -41,6 +41,16 @@ Spring提供的视图解析器（ViewResolver）在Web应用中查找View对象�
 
 只有各个框架之间彼此了解他们之间的优缺点，使用场合，使用原理，才能让我们的更快的成长。
 
+## Runtime Environment
+
+* JVM Version: 1.6.0_25-b06
+* Eclipse IDE for Java and Report Developers Version: Luna Release (4.4.0)
+* Text file encoding: UTF-8
+* Server version: Apache Tomcat/6.0.41
+* git version 1.9.4.msysgit.1
+* Spring-Version: 2.5.6.SEC01
+* OS version: Microsoft Windows 7 Ultimate(6.1.7601 Service Pack 1 Build 7601)
+
 ## References
 
 [SpringMVC入门教程及其原理讲解和实例代码下载](http://www.zuidaima.com/share/1751859714182144.htm)
